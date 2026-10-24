@@ -1,16 +1,16 @@
 {
   "version": "1.0.0",
-  "updatedAt": 1792874392659,
+  "updatedAt": 1792874581467,
   "instances": [
     {
-      "instanceId": "custom_1792864019473_1f8l",
-      "instanceName": "Create 2",
-      "version": "1.0.0",
+      "instanceId": "Моя сборка 1.21.122",
+      "instanceName": "Моя сборка 1.21.122",
+      "version": "1.0.02",
       "gameVersion": "1.21.1",
       "loaderType": "neoforge",
-      "loaderVersion": "21.1.240",
+      "loaderVersion": "52.0.27",
       "minRamMb": 4096,
-      "author": "Endkey",
+      "author": "Endkey2",
       "description": "Официальная защищенная серверная сборка с актуальными модами и фиксами"
     }
   ]

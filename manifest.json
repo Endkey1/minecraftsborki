@@ -1,14 +1,14 @@
 {
-  "instanceId": "custom_1792864019473_1f8l",
-  "instanceName": "Create 2",
+  "instanceId": "Моя сборка 1.21.122",
+  "instanceName": "Моя сборка 1.21.122",
   "description": "Официальная защищенная серверная сборка с актуальными модами и фиксами",
-  "version": "1.0.0",
+  "version": "1.0.02",
   "gameVersion": "1.21.1",
   "loaderType": "neoforge",
-  "loaderVersion": "21.1.240",
+  "loaderVersion": "52.0.27",
   "minRamMb": 4096,
-  "author": "Endkey",
-  "signature": "3871a9b92c4f39209498a1684aa0fc2ce273f3cc92d44296dd1f410c7dbb342f",
+  "author": "Endkey2",
+  "signature": "3078b54b00c0ce4fff61dff404d7768e401745f3e98468caa3096df76055be82",
   "managedDirectories": [
     "mods",
     "shaderpacks",
@@ -17,45 +17,29 @@
   ],
   "files": [
     {
-      "path": "config/fml.toml",
-      "sha1": "9fca24533100755c12e7d1a82f8c524d0a163ff6",
-      "sha256": "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825",
-      "size": 1550,
-      "url": "https://raw.githubusercontent.com/Endkey1/minecraftsborki/main/config/fml.toml",
-      "action": "enforce"
-    },
-    {
-      "path": "config/neoforge-client.toml",
-      "sha1": "b51515abb0c65a891514baffb4c78d2357ecd1ed",
-      "sha256": "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0",
-      "size": 578,
-      "url": "https://raw.githubusercontent.com/Endkey1/minecraftsborki/main/config/neoforge-client.toml",
-      "action": "enforce"
-    },
-    {
-      "path": "config/neoforge-common.toml",
-      "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f",
-      "sha256": "fe878a2717a145cd890621eac5b3be1e1fd656f7ff9abc6e8d53f670d37474c4",
-      "size": 772,
-      "url": "https://raw.githubusercontent.com/Endkey1/minecraftsborki/main/config/neoforge-common.toml",
-      "action": "enforce"
-    },
-    {
-      "path": "downloads/log.json",
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "path": ".protected_vault/vault_index.enc",
+      "sha1": "7ef0a90c0131380e89f33e4eef4a97fb424f3e4b",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
-      "url": "https://raw.githubusercontent.com/Endkey1/minecraftsborki/main/downloads/log.json",
+      "size": 30,
+      "url": "https://raw.githubusercontent.com/Endkey1/minecraftsborki/main/.protected_vault/vault_index.enc",
       "action": "enforce"
     },
     {
-      "path": "options.txt",
-      "sha1": "df878b95e5b1b7d8964bc09d76fcfbe4a93886a0",
-      "sha256": "16dcdde1d435c9afaa91012a47b96f3ba4cd03edd0c1d4c3b1c5889b387ee330",
-      "size": 3530,
-      "url": "https://raw.githubusercontent.com/Endkey1/minecraftsborki/main/options.txt",
-      "action": "default_only"
+      "path": "mods/PROTECTED_BY_ENDROX.txt",
+      "sha1": "55ea391d468a3c280409affe789af8e7f17e62e6",
+      "sha256": "d27e2a424e24b9ce93dc87697d4381d44fe957c3895e283cd80e000f83af9552",
+      "size": 483,
+      "url": "https://raw.githubusercontent.com/Endkey1/minecraftsborki/main/mods/PROTECTED_BY_ENDROX.txt",
+      "action": "enforce"
+    },
+    {
+      "path": "shaderpacks/Create-Aeronautics-RU.zip",
+      "sha1": "d2c8b7952ce86966c4b8063322197ab37e6c9216",
+      "sha256": "f1da5a10133fd0355d2851b25e7e65d0a2de6f34507a2ee0faf41313053ee740",
+      "size": 116572,
+      "url": "https://raw.githubusercontent.com/Endkey1/minecraftsborki/main/shaderpacks/Create-Aeronautics-RU.zip",
+      "action": "enforce"
     }
   ],
-  "changelog": "Обновлены моды оптимизации, исправлены настройки графики"
+  "changelog": "Обновлены моды оптимизации, исправлен22ы настройки графики"
 }
