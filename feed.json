@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "updatedAt": 1792944996841,
+  "instances": [
+    {
+      "instanceId": "Моя сборка 1.21.1",
+      "instanceName": "Моя сборка 1.21.1",
+      "version": "1.0.0",
+      "gameVersion": "1.21.1",
+      "loaderType": "neoforge",
+      "loaderVersion": "21.1.247",
+      "minRamMb": 4096,
+      "author": "Endkey",
+      "description": "Официальная серверная сборка Моя сборка 1.21.1 с актуальными модами и фиксами",
+      "bannerUrl": "C:\\Users\\Daniil\\Desktop\\Картинки\\Endkey надпись.png"
+    }
+  ]
+}

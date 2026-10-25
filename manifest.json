@@ -1,0 +1,30 @@
+{
+  "instanceId": "Моя сборка 1.21.1",
+  "instanceName": "Моя сборка 1.21.1",
+  "description": "Официальная серверная сборка Моя сборка 1.21.1 с актуальными модами и фиксами",
+  "version": "1.0.0",
+  "gameVersion": "1.21.1",
+  "loaderType": "neoforge",
+  "loaderVersion": "21.1.247",
+  "minRamMb": 4096,
+  "author": "Endkey",
+  "signature": "24544a5b38a3cc8faac670b811eb3af14b10e1a35f8ccd90427a8d58827b48b4",
+  "bannerUrl": "C:\\Users\\Daniil\\Desktop\\Картинки\\Endkey надпись.png",
+  "managedDirectories": [
+    "mods",
+    "shaderpacks",
+    "resourcepacks",
+    "config"
+  ],
+  "files": [
+    {
+      "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
+      "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d",
+      "size": 1292934,
+      "url": "https://raw.githubusercontent.com/Endkey1/minecraftsborki/main/mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "action": "enforce"
+    }
+  ],
+  "changelog": "Обновлены моды оптимизации, исправлены настройки графики"
+}
