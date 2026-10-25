@@ -1,7 +1,7 @@
 {
   "version": "1.0.3",
-  "releaseDate": 1792963697117,
+  "releaseDate": 1792963906918,
   "downloadUrl": "https://github.com/Endkey1/minecraftsborki/releases/download/v1.0.3/ENDROX.Launcher-Setup-1.0.3.exe",
-  "changelog": "Обновлен движок лаунчера, исправлен баг с обновлениями. Свежая версия релиза для публикации",
+  "changelog": "Обновлен движок лаунчера, добавлена система авто-обновления",
   "sha256": "6a44d6e0a91c11d61b9209ea79a35597e10f50f2bc0c166457d998c287c8674f"
 }
