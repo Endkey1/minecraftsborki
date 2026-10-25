@@ -5,11 +5,10 @@
   "version": "1.0.0",
   "gameVersion": "1.21.1",
   "loaderType": "neoforge",
-  "loaderVersion": "21.1.247",
+  "loaderVersion": "21.1.265",
   "minRamMb": 4096,
   "author": "Endkey",
-  "signature": "24544a5b38a3cc8faac670b811eb3af14b10e1a35f8ccd90427a8d58827b48b4",
-  "bannerUrl": "C:\\Users\\Daniil\\Desktop\\Картинки\\Endkey надпись.png",
+  "signature": "8d74bb7e3e213cd7a8e840e99ec9ce88faac9021ca4c704eb7035e7218d30ce2",
   "managedDirectories": [
     "mods",
     "shaderpacks",
