@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "releaseDate": 1792965320360,
-  "downloadUrl": "https://github.com/Endkey1/minecraftsborki/releases/download/v1.0.3/ENDROX.Launcher-Setup-1.0.3.exe",
-  "changelog": "Обновлен движок лаунчера, добавлена система авто-обновления",
-  "sha256": "42df4a38cb6121178d383df5faca6a488d9683bec431ba4797175f46308f4bbd"
+  "version": "4.0.0",
+  "releaseDate": 1793024700000,
+  "downloadUrl": "https://github.com/Endkey1/minecraftsborki/releases/download/v4.0.0/ENDROX.Launcher-Setup-4.0.0.exe",
+  "changelog": "Глобальное обновление ENDROX Launcher 4.0.0: Прямая связь с разработчиком, интерактивные конверты ответов, отправка логов крашей и обратная связь в Студии Автора.",
+  "sha256": "72cc9785373e89d625f66d8cfd04142bb21336fd7e866ec64a86ff4096e742d5"
 }
