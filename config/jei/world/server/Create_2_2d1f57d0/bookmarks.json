@@ -1,0 +1,8 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:splash_potion","components":{"minecraft:potion_contents":{"potion":"minecraft:long_slow_falling"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:redstone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"create_ultimate_factory:mixing_redstone","recipeType":"create:mixing","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"createbigcannons:he_shell"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:chute"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
