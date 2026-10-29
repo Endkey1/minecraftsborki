@@ -2,7 +2,7 @@
   "instanceId": "Create 2",
   "instanceName": "Create 2",
   "description": "Официальная серверная сборка Create 2 с актуальными модами и фиксами",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "gameVersion": "1.21.1",
   "loaderType": "neoforge",
   "loaderVersion": "21.1.240",
@@ -398,9 +398,9 @@
     },
     {
       "path": "mods/endroxprotection.jar",
-      "sha1": "17f41b026be0792f6558e114cea10316765c09d2",
-      "sha256": "3ff986ccb0e93406c50f664fc7ee2440c6b6cf88c51721b18d1b765558185b8b",
-      "size": 34961,
+      "sha1": "6f0153b9146001cca374284e8da0a94c779c2ea9",
+      "sha256": "912078cff4561ec53e2d6f058503fe8523f77d6bdc5f6d98b1bac1791bac5d35",
+      "size": 36023,
       "url": "https://raw.githubusercontent.com/Endkey1/minecraftsborki/main/mods/endroxprotection.jar",
       "action": "enforce"
     },
