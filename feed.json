@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "updatedAt": 1793281576417,
+  "updatedAt": 1793282279911,
   "instances": [
     {
       "instanceId": "Create 2",
       "instanceName": "Create 2",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "gameVersion": "1.21.1",
       "loaderType": "neoforge",
       "loaderVersion": "21.1.240",
