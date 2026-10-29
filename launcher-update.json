@@ -1,14 +1,7 @@
 {
-  "version": "4.0.0",
-  "title": "ENDROX Launcher 4.0.0 — Связь с разработчиком",
-  "changelog": [
-    "Вкладка «Связь с разработчиком» прямо в лаунчере",
-    "Возможность отправлять сообщения, предложения и краш-логи автору",
-    "Мгновенное получение ответов от разработчика в виде стильного письма-конверта",
-    "Режим студии: просмотр обращений игроков, быстрый ответ и закрытие тикетов",
-    "Фирменные модальные окна подтверждения удаления в стиле ENDROX"
-  ],
-  "downloadUrl": "https://github.com/Endkey1/minecraftsborki/releases/download/v4.0.0/ENDROX.Launcher-Setup-4.0.0.exe",
-  "sha256": "0f9ca24b84045df4756dc93fad6ffd474a540306728468c7bec7651191d793ee",
-  "mandatory": false
+  "version": "5.0.0",
+  "releaseDate": 1793266388146,
+  "downloadUrl": "https://github.com/Endkey1/minecraftsborki/releases/download/v5.0.0/ENDROX.Launcher-Setup-5.0.0.exe",
+  "changelog": "Глобальное обновление ENDROX 5.0.0:\n• FPS Boost и тюнинг Aikar G1GC: прирост фпс и устранение фризов.\n• Автоскрытие лаунчера в фон во время игры (0% нагрузки на CPU и GPU).\n• Защита игры: закрытие лаунчера больше не закрывает Minecraft.\n• Anti-Cheat 2.0: блокировка X-Ray, Fullbright паков и чита гаммы.\n• Универсальный мод EndroxProtection (вход на серверы ТОЛЬКО через ENDROX).\n• Моментальный отчёт о крашах клиентов разработчику.",
+  "sha256": "4c03569edd1a757240145882be8bdecc85e9d78d55d4a452ed01af2ecc0dc7f0"
 }
