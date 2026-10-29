@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:0.15316901408450703
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod_resources","file/Create-Aeronautics-RU.zip"]
+resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:localhost
 lang:ru_ru
