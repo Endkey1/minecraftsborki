@@ -1,7 +1,7 @@
 {
-  "version": "5.0.0",
-  "releaseDate": 1793266388146,
-  "downloadUrl": "https://github.com/Endkey1/minecraftsborki/releases/download/v5.0.0/ENDROX.Launcher-Setup-5.0.0.exe",
+  "version": "5.1.0",
+  "releaseDate": 1793274068675,
+  "downloadUrl": "https://github.com/Endkey1/minecraftsborki/releases/download/v5.1.0/ENDROX.Launcher-Setup-5.1.0.exe",
   "changelog": "Глобальное обновление ENDROX 5.0.0:\n• FPS Boost и тюнинг Aikar G1GC: прирост фпс и устранение фризов.\n• Автоскрытие лаунчера в фон во время игры (0% нагрузки на CPU и GPU).\n• Защита игры: закрытие лаунчера больше не закрывает Minecraft.\n• Anti-Cheat 2.0: блокировка X-Ray, Fullbright паков и чита гаммы.\n• Универсальный мод EndroxProtection (вход на серверы ТОЛЬКО через ENDROX).\n• Моментальный отчёт о крашах клиентов разработчику.",
-  "sha256": "4c03569edd1a757240145882be8bdecc85e9d78d55d4a452ed01af2ecc0dc7f0"
+  "sha256": "1b251e739664d20c8dba570feecfb7230dcf65b2c086c53225d7e595346c9938"
 }
