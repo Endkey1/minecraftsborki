@@ -1,0 +1,51 @@
+#Active preset: Quality / Balance / Performance / Extreme.
+#Allowed Values: QUALITY, BALANCE, PERFORMANCE, EXTREME
+preset = "BALANCE"
+#Enable the built-in profiler (measurements, overlay, report commands).
+profilerEnabled = true
+#LOD for Create kinetic visuals: skip visual updates for stationary (speed=0) and distant block entities.
+kineticsLodEnabled = false
+#Max distance squared (in blocks^2) for kinetic visual updates.
+# Default: 2304
+# Range: 0 ~ 1000000
+kineticsUpdateDistanceSq = 2304
+#Skip visual updates entirely for kinetic block entities with speed 0.
+kineticsStationarySkip = true
+#Budget rendering of items on belts, depots and belt tunnels.
+beltBudgetEnabled = false
+#Max items rendered per belt controller.
+# Default: 12
+# Range: 0 ~ 256
+beltMaxItems = 12
+#Max distance squared for rendering belt/depot items.
+# Default: 900
+# Range: 0 ~ 1000000
+beltItemDistanceSq = 900
+#Budget Create particle spawns per tick and by distance.
+particleBudgetEnabled = false
+#Max Create particles spawned per client tick.
+# Default: 120
+# Range: 0 ~ 10000
+particlePerTickBudget = 120
+#Max distance squared for Create particle spawns.
+# Default: 2304
+# Range: 0 ~ 1000000
+particleDistanceSq = 2304
+#Budget contraption rendering and visual updates.
+contraptionBudgetEnabled = false
+#Max distance squared for rendering contraptions.
+# Default: 4096
+# Range: 0 ~ 1000000
+contraptionRenderDistanceSq = 4096
+#If Entity Culling is installed and enabled, keep this module off by default.
+contraptionRespectEntityCulling = true
+#Budget fluid tank/pipe rendering in the distance.
+fluidBudgetEnabled = false
+#Max distance squared for fluid tank rendering.
+# Default: 2304
+# Range: 0 ~ 1000000
+fluidRenderDistanceSq = 2304
+#Probe-only: throttle flywheel lighting for distant visuals (only if profiling proves it is a hotspot).
+lightBudgetEnabled = false
+#Probe-only: allocation reductions (only if profiling proves GC pressure).
+allocationBudgetEnabled = false
