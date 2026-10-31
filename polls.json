@@ -27,8 +27,8 @@
     ],
     "totalVotes": 511,
     "createdAt": "2026-10-31T13:34:36.308Z",
-    "expiresAt": "2026-11-14T13:34:36.309Z",
-    "isFinished": false,
+    "expiresAt": "2026-10-31T13:43:28.292Z",
+    "isFinished": true,
     "voterDeviceIds": {
       "dev_fea8ef8d9de53389": [
         "opt_1"
