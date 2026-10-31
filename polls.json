@@ -7,7 +7,7 @@
       {
         "id": "opt_1",
         "text": "Техно-магическая сборка с Create & Iron's Spells (1.21.1)",
-        "votes": 142
+        "votes": 143
       },
       {
         "id": "opt_2",
@@ -25,9 +25,19 @@
         "votes": 64
       }
     ],
-    "totalVotes": 510,
+    "totalVotes": 511,
     "createdAt": "2026-10-31T13:34:36.308Z",
     "expiresAt": "2026-11-14T13:34:36.309Z",
-    "isFinished": false
+    "isFinished": false,
+    "voterDeviceIds": {
+      "dev_fea8ef8d9de53389": [
+        "opt_1"
+      ]
+    },
+    "voterNicknames": {
+      "end_key1": [
+        "opt_1"
+      ]
+    }
   }
 ]
