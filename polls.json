@@ -42,14 +42,22 @@
       {
         "id": "opt_8",
         "text": "10",
-        "votes": 0
+        "votes": 1
       }
     ],
-    "totalVotes": 0,
+    "totalVotes": 1,
     "createdAt": "2026-10-31T18:11:38.677Z",
     "expiresAt": "2026-11-07T18:11:38.677Z",
     "isFinished": false,
-    "voterNicknames": {},
-    "voterDeviceIds": {}
+    "voterNicknames": {
+      "end_key1": [
+        "opt_8"
+      ]
+    },
+    "voterDeviceIds": {
+      "dev_fea8ef8d9de53389": [
+        "opt_8"
+      ]
+    }
   }
 ]
