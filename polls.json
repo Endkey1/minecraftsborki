@@ -1,1 +1,55 @@
-[]
+[
+  {
+    "id": "poll_1793470298677_e40d3f72",
+    "question": "Как вам ENDROX 1 до 10?",
+    "mode": "public-single",
+    "options": [
+      {
+        "id": "opt_1",
+        "text": "1",
+        "votes": 0
+      },
+      {
+        "id": "opt_2",
+        "text": "2",
+        "votes": 0
+      },
+      {
+        "id": "opt_3",
+        "text": "3",
+        "votes": 0
+      },
+      {
+        "id": "opt_4",
+        "text": "5",
+        "votes": 0
+      },
+      {
+        "id": "opt_5",
+        "text": "7",
+        "votes": 0
+      },
+      {
+        "id": "opt_6",
+        "text": "8",
+        "votes": 0
+      },
+      {
+        "id": "opt_7",
+        "text": "9",
+        "votes": 0
+      },
+      {
+        "id": "opt_8",
+        "text": "10",
+        "votes": 0
+      }
+    ],
+    "totalVotes": 0,
+    "createdAt": "2026-10-31T18:11:38.677Z",
+    "expiresAt": "2026-11-07T18:11:38.677Z",
+    "isFinished": false,
+    "voterNicknames": {},
+    "voterDeviceIds": {}
+  }
+]
