@@ -22,7 +22,7 @@
       {
         "id": "opt_4",
         "text": "5",
-        "votes": 0
+        "votes": 1
       },
       {
         "id": "opt_5",
@@ -45,18 +45,24 @@
         "votes": 1
       }
     ],
-    "totalVotes": 1,
+    "totalVotes": 2,
     "createdAt": "2026-10-31T18:11:38.677Z",
     "expiresAt": "2026-11-07T18:11:38.677Z",
     "isFinished": false,
     "voterNicknames": {
       "end_key1": [
         "opt_8"
+      ],
+      "vkozu": [
+        "opt_4"
       ]
     },
     "voterDeviceIds": {
       "dev_fea8ef8d9de53389": [
         "opt_8"
+      ],
+      "dev_2e6c7cef425608d2": [
+        "opt_4"
       ]
     }
   }
