@@ -37,7 +37,7 @@
       {
         "id": "opt_7",
         "text": "9",
-        "votes": 0
+        "votes": 1
       },
       {
         "id": "opt_8",
@@ -45,7 +45,7 @@
         "votes": 1
       }
     ],
-    "totalVotes": 2,
+    "totalVotes": 3,
     "createdAt": "2026-10-31T18:11:38.677Z",
     "expiresAt": "2026-11-07T18:11:38.677Z",
     "isFinished": false,
@@ -55,6 +55,9 @@
       ],
       "vkozu": [
         "opt_4"
+      ],
+      "_riz_": [
+        "opt_7"
       ]
     },
     "voterDeviceIds": {
@@ -63,6 +66,9 @@
       ],
       "dev_2e6c7cef425608d2": [
         "opt_4"
+      ],
+      "dev_57d7490db6bc4f50": [
+        "opt_7"
       ]
     }
   }
