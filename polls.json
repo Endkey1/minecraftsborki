@@ -37,12 +37,12 @@
       {
         "id": "opt_7",
         "text": "9",
-        "votes": 1
+        "votes": 0
       },
       {
         "id": "opt_8",
         "text": "10",
-        "votes": 1
+        "votes": 2
       }
     ],
     "totalVotes": 3,
@@ -56,8 +56,8 @@
       "vkozu": [
         "opt_4"
       ],
-      "_riz_": [
-        "opt_7"
+      "beach.boy.12": [
+        "opt_8"
       ]
     },
     "voterDeviceIds": {
@@ -67,8 +67,8 @@
       "dev_2e6c7cef425608d2": [
         "opt_4"
       ],
-      "dev_57d7490db6bc4f50": [
-        "opt_7"
+      "dev_18ac8005090564f5": [
+        "opt_8"
       ]
     }
   }
