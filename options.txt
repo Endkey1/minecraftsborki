@@ -50,7 +50,7 @@ highContrast:false
 narratorHotkey:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
-lastServer:localhost
+lastServer:mineserv:25601
 lang:ru_ru
 chatVisibility:0
 chatOpacity:0.7288732394366197
@@ -75,7 +75,7 @@ tutorialStep:movement
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:true
 hideBundleTutorial:false
